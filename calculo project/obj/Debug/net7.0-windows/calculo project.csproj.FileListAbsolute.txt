@@ -1,0 +1,27 @@
+C:\Users\GNZ\source\repos\calculo project\calculo project\bin\Debug\net7.0-windows\calculo project.exe
+C:\Users\GNZ\source\repos\calculo project\calculo project\bin\Debug\net7.0-windows\calculo project.deps.json
+C:\Users\GNZ\source\repos\calculo project\calculo project\bin\Debug\net7.0-windows\calculo project.runtimeconfig.json
+C:\Users\GNZ\source\repos\calculo project\calculo project\bin\Debug\net7.0-windows\calculo project.dll
+C:\Users\GNZ\source\repos\calculo project\calculo project\bin\Debug\net7.0-windows\calculo project.pdb
+C:\Users\GNZ\source\repos\calculo project\calculo project\obj\Debug\net7.0-windows\calculo project.csproj.AssemblyReference.cache
+C:\Users\GNZ\source\repos\calculo project\calculo project\obj\Debug\net7.0-windows\calculo_project.Form1.resources
+C:\Users\GNZ\source\repos\calculo project\calculo project\obj\Debug\net7.0-windows\calculo project.csproj.GenerateResource.cache
+C:\Users\GNZ\source\repos\calculo project\calculo project\obj\Debug\net7.0-windows\calculo project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GNZ\source\repos\calculo project\calculo project\obj\Debug\net7.0-windows\calculo project.AssemblyInfoInputs.cache
+C:\Users\GNZ\source\repos\calculo project\calculo project\obj\Debug\net7.0-windows\calculo project.AssemblyInfo.cs
+C:\Users\GNZ\source\repos\calculo project\calculo project\obj\Debug\net7.0-windows\calculo project.csproj.CoreCompileInputs.cache
+C:\Users\GNZ\source\repos\calculo project\calculo project\obj\Debug\net7.0-windows\calculo project.dll
+C:\Users\GNZ\source\repos\calculo project\calculo project\obj\Debug\net7.0-windows\refint\calculo project.dll
+C:\Users\GNZ\source\repos\calculo project\calculo project\obj\Debug\net7.0-windows\calculo project.pdb
+C:\Users\GNZ\source\repos\calculo project\calculo project\obj\Debug\net7.0-windows\calculo project.genruntimeconfig.cache
+C:\Users\GNZ\source\repos\calculo project\calculo project\obj\Debug\net7.0-windows\ref\calculo project.dll
+C:\Users\GNZ\source\repos\calculo project\calculo project\bin\Debug\net7.0-windows\MathNet.Numerics.dll
+C:\Users\GNZ\source\repos\calculo project\calculo project\bin\Debug\net7.0-windows\OxyPlot.dll
+C:\Users\GNZ\source\repos\calculo project\calculo project\bin\Debug\net7.0-windows\OxyPlot.WindowsForms.dll
+C:\Users\GNZ\source\repos\calculo project\calculo project\obj\Debug\net7.0-windows\calculo project.csproj.CopyComplete
+C:\Users\GNZ\source\repos\calculo project\calculo project\bin\Debug\net7.0-windows\CSharpMath.dll
+C:\Users\GNZ\source\repos\calculo project\calculo project\bin\Debug\net7.0-windows\NCalc.dll
+C:\Users\GNZ\source\repos\calculo project\calculo project\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\GNZ\source\repos\calculo project\calculo project\bin\Debug\net7.0-windows\Microsoft.OpenApi.dll
+C:\Users\GNZ\source\repos\calculo project\calculo project\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\GNZ\source\repos\calculo project\calculo project\bin\Debug\net7.0-windows\OpenAI.API.dll
