@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GNZ\\source\\repos\\calculo project\\calculo project\\calculo project.csproj": {}
+    "C:\\Users\\GNZ\\Desktop\\Integrales_Chatgpt\\calculo project\\calculo project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GNZ\\source\\repos\\calculo project\\calculo project\\calculo project.csproj": {
+    "C:\\Users\\GNZ\\Desktop\\Integrales_Chatgpt\\calculo project\\calculo project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GNZ\\source\\repos\\calculo project\\calculo project\\calculo project.csproj",
+        "projectUniqueName": "C:\\Users\\GNZ\\Desktop\\Integrales_Chatgpt\\calculo project\\calculo project.csproj",
         "projectName": "calculo project",
-        "projectPath": "C:\\Users\\GNZ\\source\\repos\\calculo project\\calculo project\\calculo project.csproj",
+        "projectPath": "C:\\Users\\GNZ\\Desktop\\Integrales_Chatgpt\\calculo project\\calculo project.csproj",
         "packagesPath": "C:\\Users\\GNZ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GNZ\\source\\repos\\calculo project\\calculo project\\obj\\",
+        "outputPath": "C:\\Users\\GNZ\\Desktop\\Integrales_Chatgpt\\calculo project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\GNZ\\AppData\\Roaming\\NuGet\\NuGet.Config",

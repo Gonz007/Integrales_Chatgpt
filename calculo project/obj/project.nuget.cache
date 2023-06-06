@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fx0O0uGY7vNZx0YSKQdVRNWdKYAzmJzgKUQEur2XufqbrJ6f6hXsTz5ciXv3jkQdzwxztAmB+4iqwjYCxsbG+Q==",
+  "dgSpecHash": "B2ClfsbPEeC74zbFoh1AwKK6WDoqrdCJx15il3zMJ4x7mHejSfazOxX2+5h1D0OBd4tkDOTSy2zpZ1NfZP+3Gg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\GNZ\\source\\repos\\calculo project\\calculo project\\calculo project.csproj",
+  "projectFilePath": "C:\\Users\\GNZ\\Desktop\\Integrales_Chatgpt\\calculo project\\calculo project.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\GNZ\\.nuget\\packages\\csharpmath\\0.5.1\\csharpmath.0.5.1.nupkg.sha512",
     "C:\\Users\\GNZ\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512",
