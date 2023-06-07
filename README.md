@@ -1,6 +1,6 @@
 # Integrales_Chatgpt
 
-Integracion basica de una app que soluciona integrales y ademas te da algun consejo con la api de chatgpt.
+Integracion basica de una app que soluciona integrales y ademas te da un consejo con la api de chatgpt con su modelo davinci-002.
 
 ![Integral](https://github.com/Gonz007/Assets/blob/9ea39c6b03e13296ca25f837e2e618ed1171e0e5/integral.png)
 
